@@ -4,7 +4,7 @@ My name is Maricic Milos, and I am  PHP Web developer @ Junior level. Most of my
 
 # helloworld repo
 
-This is a simple tutorial practice repository witch will guide me through Git.
+This is a simple tutorial practice repository witch will guide me through Git. #this is additioal text
 
 # Contact
 
